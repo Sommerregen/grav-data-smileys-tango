@@ -1,4 +1,4 @@
-# Contributing to Grav Smileys Data Pack -- Tango
+# Contributing to Grav Smileys Data Pack - Tango
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
